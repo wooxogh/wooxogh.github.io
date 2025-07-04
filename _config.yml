@@ -1,120 +1,93 @@
 # Site
-repository: sproogen/resume-theme
+repository: ehho0916/resume
 favicon: images/favicon.ico
 
 # Content configuration version
 version: 2
 
 # Personal info
-name: Brett Harris
-title: Senior Network System Administrator
-email: brett.h@email.co.uk
-website: www.github.com/sproogen/resume-theme
+name: Woo Taeho
+title: Network/System Engineer
+email: ehho0916@yonsei.ac.kr
+website: https://github.com/ehho0916
 
 # Dark Mode (true/false/never)
 darkmode: false
 
 # Social links
-twitter_username: facespics
-github_username:  sproogen
-# stackoverflow_username: "00000001"
-# dribbble_username: jekyll
-# facebook_username: jekyll
-# flickr_username: jekyll
-instagram_username: jameswgrant
-linkedin_username: jameswgrant
-# xing_username: jekyll
-# pinterest_username: jekyll
-youtube_username: globalmtb
-# googleplus_username: +jekyll
-# orcid_username: 0000-0000-0000-0000
+github_username: ehho0916
+linkedin_username: woo-taeho
+# instagram_username: your_instagram
+# twitter_username: your_twitter
+# youtube_username: your_youtube
 
 # Additional icon links
 additional_links:
-- title: itsgoingto.be
-  icon: fas fa-globe
-  url: https://www.itsgoingto.be
-# - title: another link
-#   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
-#   url: Link url (eg. https://google.com)
-
-# Google Analytics and Tag Manager
-# Using more than one of these may cause issues with reporting
-# gtm: "GTM-0000000"
-# gtag: "UA-00000000-0"
-# google_analytics: "UA-00000000-0"
+  - title: Yonsei University
+    icon: fas fa-university
+    url: https://www.yonsei.ac.kr
 
 # About Section
-# about_title: About Me
 about_profile_image: images/profile.jpg
-about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Brett and I'm a senior network system administrator. As well as administrating systems I also have experience making software and web apps. I have worked at a number of companies gaining teamwork and leadership skills.
+about_content: | 
+  안녕하세요, Woo Taeho입니다. 현재 네트워크/시스템 엔지니어로 활동하고 있으며, 시스템 운영, 네트워크 설계 및 관리, 클라우드 인프라 운영 경험을 보유하고 있습니다.
 
-  I am most skilled in: <mark>AWS</mark> and <mark>Eating Pizza</mark>
+  <mark>Linux</mark>, <mark>Networking</mark>, <mark>Cloud (AWS, GCP)</mark>, <mark>Scripting</mark> 등에 강점을 가지고 있으며, 다양한 프로젝트에서 협업과 문제 해결 역량을 발휘했습니다.
 
 content:
-  - title: Projects # Title for the section
-    layout: list # Type of content section (list/text)
+  - title: Projects
+    layout: list
     content:
       - layout: top-middle
-        title: Super awesome project
-        link: github.com/sproogen
-        # link_text: Project Website
+        title: Network Automation Toolkit
+        link: https://github.com/ehho0916/network-automation-toolkit
         additional_links:
-          - title:  sproogen/modern-resume-theme
+          - title: ehho0916/network-automation-toolkit
             icon: fab fa-github
-            url: github.com/sproogen/modern-resume-theme
-          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
-          #   icon: fab fa-github
-          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
+            url: https://github.com/ehho0916/network-automation-toolkit
         quote: >
-          This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
-        description: | # this will include new lines to allow paragraphs
-          I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
+          Automating routine network configuration tasks to improve consistency and reduce human error.
+        description: | 
+          Python과 Ansible을 활용해 네트워크 장비의 설정을 자동화하는 툴킷을 개발했습니다. CLI 파서, Config Push 기능 등을 포함하고 있으며, 실제 운영 환경에 적용해 효율을 개선했습니다.
 
-  - title: Experience # Title for the section
-    layout: list # Type of content section (list/text)
+  - title: Experience
+    layout: list
     content:
       - layout: left
-        title: The Boring Company
-        link: boringcompany.com
-        # link_text: boringcompany.com
-        sub_title: Senior Network System Administrator
-        caption: November 2017 - Present
+        title: Yonsei University
+        link: https://yonsei.ac.kr
+        sub_title: Network/System Engineer (Research Lab)
+        caption: March 2022 - Present
         quote: >
-          Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
-        description: | # this will include new lines to allow paragraphs
-            Every company needs its networks properly administered and The Boring Compay is no exception. Digging holes is hard and I play my part making sure the whole company stays connected. I lead a team of 5 people and enjoy driving the company to try new technologies.
+          Supporting research and production systems with robust, secure, and scalable infrastructure.
+        description: | 
+          연구실 서버 인프라를 설계하고 운영하며 네트워크 구성, 리눅스 서버 관리, 백업 및 보안 정책을 관리했습니다. 
+          다양한 오픈소스 솔루션과 클라우드 인프라(AWS, GCP)를 연동하여 실험 및 서비스 환경을 구축했습니다.
 
-  - title: Education # Title for the section
-    layout: list # Type of content section (list/text)
+  - title: Education
+    layout: list
     content:
       - layout: left
-        title: Harvard University
-        caption: 2010 - 2013
-        sub_title: BSc Computer Science
+        title: Yonsei University
+        caption: 2017 - 2022
+        sub_title: BSc in Computer Science (or Information & Communication Engineering)
         quote: >
-          Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
-        description: | # this will include new lines to allow paragraphs
-          During my time at Harvard I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
-
-          I spent a lot of my free time as a committee member of the *Harvard Mountaineering Club* taking on roles such as *Trip Secretary* and *Vice-President*.
+          Yonsei University, one of Korea's top universities, with strong reputation for engineering and technology.
+        description: | 
+          Yonsei에서 컴퓨터 과학/정보통신 공학을 전공하며 네트워크, 시스템 프로그래밍, 운영체제 등 핵심 과목을 수강했습니다.
+          졸업 프로젝트와 연구실 활동을 통해 실무 역량을 쌓았습니다.
 
   - title: A Little More About Me
     layout: text
-    content: | # this will include new lines to allow paragraphs
-      Alongside my interests in networks and software engineering some of my other interests and hobbies are:
-      - Rock climbing
-      - Gaming
-      - Knitting
-      - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
-
-      Look at this cool image  
-      ![Trees](/modern-resume-theme/images/landscape-trees.jpg "Trees")
+    content: | 
+      업무 외 시간에는 다음과 같은 취미를 즐깁니다:
+      - 클라이밍
+      - 게임
+      - 여행
+      - [유튜브에서 기술 영상 보기](https://www.youtube.com)
 
 # Footer
 footer_show_references: true
-# references_title: References on request (Override references text)
 
 # Build settings
 remote_theme: sproogen/resume-theme
