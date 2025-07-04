@@ -25,7 +25,7 @@ linkedin_username: woo-taeho
 additional_links:
   - title: Yonsei University
     icon: fas fa-university
-    url: https://www.yonsei.ac.kr
+    url: https://computing.yonsei.ac.kr/
 
 # About Section
 about_profile_image: images/profile.jpg
