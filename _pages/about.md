@@ -7,10 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I'm Woo Taeho, a Network and System Engineer based in Seoul, Korea.
-I have experience in managing Linux servers, designing secure network infrastructure, and working with cloud environments such as AWS and GCP.
-I'm passionate about building reliable systems, automating workflows, and learning new technologies to improve operational efficiency.
-
+Hello! My name is Woo Taeho. I'm currently studying Computer Science at Yonsei University in Korea.  
+My interests include systems programming, networking, and cloud infrastructure.  
+I am passionate about learning new technologies and developing practical skills through projects and collaboration.
 
 Experiences
 ------
@@ -30,5 +29,3 @@ ss
 Extracurricular Activities
 ------
 Sss
-
-
