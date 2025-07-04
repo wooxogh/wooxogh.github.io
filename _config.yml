@@ -69,13 +69,12 @@ content:
     content:
       - layout: left
         title: Yonsei University
-        caption: 2017 - 2022
-        sub_title: BSc in Computer Science (or Information & Communication Engineering)
+        caption: 2023 - current
+        sub_title: BSc in Computer Science
         quote: >
-          Yonsei University, one of Korea's top universities, with strong reputation for engineering and technology.
+          Yonsei University
         description: | 
-          Yonsei에서 컴퓨터 과학/정보통신 공학을 전공하며 네트워크, 시스템 프로그래밍, 운영체제 등 핵심 과목을 수강했습니다.
-          졸업 프로젝트와 연구실 활동을 통해 실무 역량을 쌓았습니다.
+          Yonsei에서 컴퓨터 과학/정보통신 공학을 전공하며 자료구조, 운영체제, 컴퓨터 아키택쳐 등 핵심 과목을 수강했습니다.
 
   - title: A Little More About Me
     layout: text
