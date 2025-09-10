@@ -13,8 +13,6 @@ I am passionate about learning new technologies and developing practical skills 
 
 Experiences
 ------
-## 개인/팀 프로젝트
-
 ### 📌 IDEALAB (팀 프로젝트)
 *2025.07 ~ 2025.09*
 
@@ -71,8 +69,8 @@ LLM을 활용해 검색된 사례를 재랭킹하고, 전화번호 패턴 추출
 
 Honors & Awards
 ------
-ss
+.
 
 Extracurricular Activities
 ------
-Sss
+.
