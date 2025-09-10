@@ -18,6 +18,7 @@ Experiences
 
 ### 남사칭 (백엔드 4인)
 *2025.09*
+
 💻 [Source Code](https://github.com/Sinchonthon-team7/Backend.git)
 📄 [api 명세서](https://www.notion.so/API-26583f7524bc80518b47c39f2cec2e60)
 
@@ -34,7 +35,7 @@ LLM을 활용해 검색된 사례를 재랭킹하고, 전화번호 패턴 추출
 - Docker 기반 컨테이너화 및 AWS 배포 환경 구성
 
 **Tech Stack.**  
-`Python` `Django REST Framework` `MySQL` `pgvector` `OpenAI API`  
+`Python` `Django REST Framework` `MySQL` `OpenAI API`  
 `Docker` `AWS S3` `EC2`  
 `Regex` `Requests` `JWT`
 
