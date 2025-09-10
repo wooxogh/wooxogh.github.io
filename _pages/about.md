@@ -15,7 +15,7 @@ Experiences
 ------
 ## 개인/팀 프로젝트
 
-### IDEALAB (팀 프로젝트)
+### 📌 IDEALAB (팀 프로젝트)
 *2025.07 ~ 2025.09*
 
 💻 [Source Code](https://github.com/Likelion-Yonsei-13th/13-HACKATHON-BACKEND-IDEALAB.git)
@@ -46,7 +46,7 @@ Experiences
 `OpenAI API` `OpenAPI (서울 열린데이터)`  
 `Requests` `Regex` `JWT`
 
-### 남사칭 (백엔드 4인)
+### 📌 남사칭 (백엔드 4인)
 *2025.09*
 
 💻 [Source Code](https://github.com/Sinchonthon-team7/Backend.git)
