@@ -22,7 +22,7 @@ repository               : "https://ehho916.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "woo.png"
   name             : "Woo Taeho"
   pronouns         : # example: "she/her"  
   bio              : "I'm major in Computer Science and Engineering at Yonsei University, focusing on Backend Development, Database Systems, and applying AI to real-world services."
