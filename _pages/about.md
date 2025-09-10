@@ -16,10 +16,11 @@ Experiences
 ## 개인/팀 프로젝트
 
 ### IDEALAB (팀 프로젝트)
-*2025.07 ~ 2025.09*  
+*2025.07 ~ 2025.09*
 
 💻 [Source Code](https://github.com/Likelion-Yonsei-13th/13-HACKATHON-BACKEND-IDEALAB.git)
 📄 [API 명세서](https://www.notion.so/API-25653ab3199c804697c5f1446819a901)
+📑 [서비스 소개 발표자료](/files/idealab.pdf)
 
 **Description.**  
 지역 상권 데이터를 기반으로 다양한 지표(매출, 폐업률, 상권 변화 등)를 수집·분석하고,  
@@ -35,14 +36,14 @@ Django 기반 백엔드에서 이를 API로 제공하여 프론트엔드와 연�
 - 상권 데이터(CSV) → DB 적재용 custom management commands 작성 (`import_*`, `sync_*`, `backfill_*`)  
 - 서울열린데이터(OpenAPI) 및 상권 반경 API(`storeListInRadius`) 연동 → 상권별 업소 수 자동 집계  
 - ClosureStat, TradingArea 등 주요 모델의 데이터 백필(backfill) 로직 설계  
-- **회의 음성 데이터 요약 기능 구현 (OpenAI API 활용)**  
+- **회의 음성 데이터 요약 기능 구현 (OpenAI API 활용)**
 - **키워드 기반 데이터 매핑 로직 작성 → 사용자가 요청한 키워드와 관련된 상권 데이터 자동 추출 및 API 응답**  
 - Gunicorn + Nginx + Docker Compose 기반의 배포 환경 구성  
 - Let’s Encrypt + Nginx Reverse Proxy를 통한 HTTPS 보안 통신 지원  
 
 **Tech Stack.**  
 `Python` `Django REST Framework` `MySQL (AWS RDS)`  
-`Docker` `Nginx` `Gunicorn`  
+`Docker` `Nginx` `Gunicorn`
 `AWS EC2` `AWS S3`  
 `OpenAI API` `OpenAPI (서울 열린데이터)`  
 `Requests` `Regex` `JWT`
@@ -52,6 +53,7 @@ Django 기반 백엔드에서 이를 API로 제공하여 프론트엔드와 연�
 
 💻 [Source Code](https://github.com/Sinchonthon-team7/Backend.git)
 📄 [API 명세서](https://www.notion.so/API-26583f7524bc80518b47c39f2cec2e60)
+📑 [서비스 소개 발표자료](/files/Frame 1000003978.pdf)
 
 **Description.**  
 실시간으로 입력된 텍스트와 DB에 축적된 사례들을 비교하여 유사도를 분석하고, 보이스피싱·사기·종교 포섭·마약 권유 등 위험 사례를 자동 탐지하는 웹서비스입니다.
