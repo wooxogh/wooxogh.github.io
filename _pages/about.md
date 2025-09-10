@@ -42,7 +42,7 @@ Experiences
 `OpenAI API` `OpenAPI (서울 열린데이터)`  
 `Requests` `Regex` `JWT`
 
-### 📌 남사칭 (백엔드 4인)
+### 📌 남사칭 (Sinchonthon)
 *2025.09*
 
 💻 [Source Code](https://github.com/Sinchonthon-team7/Backend.git)
@@ -72,8 +72,7 @@ Honors & Awards
 
 Extracurricular Activities
 ------
-
-#### 연세대학교 컴퓨터과학과 학생회 — 부학생회장 (2024)
+### 연세대학교 컴퓨터과학과 학생회 — 부학생회장 (2024)
 - 학과 학생회 부학생회장으로서 약 600명 규모의 학과 학생들을 대상으로 한 주요 행사(OT, MT, 축제 부스 등) 기획 및 운영 총괄
 - 약 20명 규모의 집행부를 관리하며 회의 주재, 예산 및 일정 관리 수행
 - 학생, 교수, 교직원 등 다양한 이해관계자와의 조율을 통해 원활한 의사소통 능력과 문제 해결 능력을 배양
