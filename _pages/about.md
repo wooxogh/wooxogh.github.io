@@ -26,6 +26,12 @@ Experiences
 - 실시간 코드 리뷰 및 협업 툴 아이디어 제안 등 서비스 기획에도 적극 기여  
 - UniStage(버스킹 공연 플랫폼) 프로젝트에서 아티스트/공연/예매 모듈 API 개발 담당  
 
+📌 SKYST Hackathon(서울대·연세대·고려대·카이스트 연합 해커톤)
+
+*2024.05*
+- UniStage 프로젝트의 백엔드 파트 담당 (공연 정보 게시/공연 예약/티켓팅 API)
+- Docker + AWS EC2 환경에서 배포까지 수행
+
 📌 2025 Sinchonthon — Team Backend Developer 
 
 *2025.09*  
