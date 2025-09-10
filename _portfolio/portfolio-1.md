@@ -1,6 +1,6 @@
 ---
 title: "IDEALAB"
-excerpt: "상권 데이터 분석 및 AI 기반 회의 요약 기능을 제공하는 창업 지원 웹서비스<br/><img src='/images/idealab.png' style='width:40%; height:auto;'>"
+excerpt: "상권 데이터 분석 및 AI 기반 회의 요약 기능을 제공하는 창업 지원 웹서비스<br/><img src='/images/idealab.png' style='width:60%; height:auto;'>"
 collection: portfolio
 ---
 
