@@ -30,11 +30,11 @@ Experiences
 **Features.**  
 - Django REST Framework 기반 API 서버 설계 및 구현  
 - AWS RDS(MySQL) + Docker 환경에서의 데이터 적재 및 관리  
-- 상권 데이터(CSV) → DB 적재용 custom management commands 작성 (`import_*`, `sync_*`, `backfill_*`)  
-- 서울열린데이터(OpenAPI) 및 상권 반경 API(`storeListInRadius`) 연동 → 상권별 업소 수 자동 집계  
+- 상권 데이터(CSV) → DB 적재용 custom management commands 작성
+- 서울열린데이터(OpenAPI) 및 상권 반경 API 연동 → 상권별 업소 수 자동 집계  
 - ClosureStat, TradingArea 등 주요 모델의 데이터 백필(backfill) 로직 설계  
-- **회의 음성 데이터 요약 기능 구현 (OpenAI API 활용)**
-- **키워드 기반 데이터 매핑 로직 작성 → 사용자가 요청한 키워드와 관련된 상권 데이터 자동 추출 및 API 응답**  
+- 회의 음성 데이터 요약 기능 구현 (OpenAI API 활용)
+- 키워드 기반 데이터 매핑 로직 작성 → 사용자가 요청한 키워드와 관련된 상권 데이터 자동 추출 및 API 응답
 - Gunicorn + Nginx + Docker Compose 기반의 배포 환경 구성  
 - Let’s Encrypt + Nginx Reverse Proxy를 통한 HTTPS 보안 통신 지원  
 
