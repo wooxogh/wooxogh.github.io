@@ -13,19 +13,22 @@ redirect_from:
 Experiences
 ------
 📌 Yonsei AWS Summer Camp
-2024.07 ~ 2024.08  
+
+*2024.07 ~ 2024.08*
 - AWS EC2, RDS, S3를 활용한 배포 및 클라우드 인프라 구성 경험  
 - OAuth 기반 로그인 시스템 통합 시도 및 배포 자동화 학습  
 - 실습 중심 환경에서 팀 단위 클라우드 프로젝트 수행  
 
-📌 멋쟁이사자처럼 연세대학교 13기 — Backend Developer  
-2025.03 ~ Present  
+📌 멋쟁이사자처럼 연세대학교 13기 — Backend Developer
+
+*2025.03 ~ Present*
 - Django/DRF 기반 백엔드 개발자로 활동하며 팀 프로젝트에 참여  
 - 실시간 코드 리뷰 및 협업 툴 아이디어 제안 등 서비스 기획에도 적극 기여  
 - UniStage(버스킹 공연 플랫폼) 프로젝트에서 아티스트/공연/예매 모듈 API 개발 담당  
 
 📌 Sinchonthon Hackathon — Team Backend Developer 
-2025.09  
+
+*2025.09*  
 - 실시간 텍스트 유사도 분석 및 보이스피싱·사기 탐지 웹서비스 개발  
 - Django + MySQL FULLTEXT INDEX 기반 검색 로직 및 API 서버 구현  
 - 팀 내 백엔드 전담으로 데이터 처리와 API 설계 주도
