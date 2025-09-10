@@ -68,7 +68,7 @@ LLM을 활용해 검색된 사례를 재랭킹하고, 전화번호 패턴 추출
 
 Honors & Awards 
 ------
-- **Academic Scholarship**  
+**Academic Scholarship**  
   Yonsei University, 2nd Semester of 2023 (Feb 2024)  
   성적 우수 장학금 수여
 
