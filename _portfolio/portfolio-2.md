@@ -1,6 +1,6 @@
 ---
 title: "남사칭"
-excerpt: "실시간 텍스트 유사도 분석과 AI 기반 위험 탐지를 지원하는 보이스피싱·사기 예방 웹서비스<br/><img src='/images/남사칭.png'>"
+excerpt: "실시간 텍스트 유사도 분석과 AI 기반 위험 탐지를 지원하는 보이스피싱·사기 예방 웹서비스<br/><img src='/images/남사칭.png' style='width:60%; height:auto;'>"
 collection: portfolio
 ---
 
