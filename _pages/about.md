@@ -20,13 +20,12 @@ Experiences
 
 💻 [Source Code](https://github.com/Likelion-Yonsei-13th/13-HACKATHON-BACKEND-IDEALAB.git)
 📄 [API 명세서](https://www.notion.so/API-25653ab3199c804697c5f1446819a901)
-📑 [서비스 소개 발표자료](/files/idealab.pdf)
+📑 [서비스 소개자료](/files/idealab.pdf)
 
 **Description.**  
-지역 상권 데이터를 기반으로 다양한 지표(매출, 폐업률, 상권 변화 등)를 수집·분석하고,  
-이를 활용해 창업자나 사용자에게 직관적인 상권 인사이트를 제공하는 웹 서비스입니다.  
-서울열린데이터(OpenAPI)와 자체 구축한 CSV 데이터셋을 RDS(MySQL)에 적재하고, Django 기반 백엔드에서 이를 API로 제공하여 프론트엔드와 연동했습니다.  
-또한 회의 음성 데이터를 요약하는 기능과, 사용자가 제공한 키워드를 기반으로 자동으로 관련 상권 데이터를 찾아 프론트엔드에 전달하는 로직도 구현했습니다.  
+지역 상권 데이터를 기반으로 다양한 지표(매출, 폐업률, 상권 변화 등)를 수집·분석하고, 이를 활용해 창업자나 사용자에게 직관적인 상권 인사이트를 제공하는 웹 서비스입니다.
+서울열린데이터(OpenAPI)와 자체 구축한 CSV 데이터셋을 RDS(MySQL)에 적재하고, Django 기반 백엔드에서 이를 API로 제공하여 프론트엔드와 연동했습니다.
+또한 회의 음성 데이터를 요약하는 기능과, 사용자가 제공한 키워드를 기반으로 자동으로 관련 상권 데이터를 찾아 프론트엔드에 전달하는 로직도 구현했습니다.
 
 **Features.**  
 - Django REST Framework 기반 API 서버 설계 및 구현  
@@ -51,7 +50,7 @@ Experiences
 
 💻 [Source Code](https://github.com/Sinchonthon-team7/Backend.git)
 📄 [API 명세서](https://www.notion.so/API-26583f7524bc80518b47c39f2cec2e60)
-📑 [서비스 소개 발표자료](/files/남사칭.pdf)
+📑 [서비스 소개자료](/files/남사칭.pdf)
 
 **Description.**  
 실시간으로 입력된 텍스트와 DB에 축적된 사례들을 비교하여 유사도를 분석하고, 보이스피싱·사기·종교 포섭·마약 권유 등 위험 사례를 자동 탐지하는 웹서비스입니다.
