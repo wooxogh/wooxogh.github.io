@@ -51,7 +51,7 @@ Experiences
 
 💻 [Source Code](https://github.com/Sinchonthon-team7/Backend.git)
 📄 [API 명세서](https://www.notion.so/API-26583f7524bc80518b47c39f2cec2e60)
-📑 [서비스 소개 발표자료](/files/Frame 1000003978.pdf)
+📑 [서비스 소개 발표자료](/files/남사칭.pdf)
 
 **Description.**  
 실시간으로 입력된 텍스트와 DB에 축적된 사례들을 비교하여 유사도를 분석하고, 보이스피싱·사기·종교 포섭·마약 권유 등 위험 사례를 자동 탐지하는 웹서비스입니다.
