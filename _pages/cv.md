@@ -15,6 +15,7 @@ Education
 
 Work experience
 ======
+{% comment %}
 * Spring 2024: Academic Pages Collaborator
   * GitHub University
   * Duties includes: Updates and improvements to template
@@ -29,6 +30,7 @@ Work experience
   * GitHub University
   * Duties included: Tagging issues
   * Supervisor: Professor Git
+{% endcomment %}
   
 Skills and Techniques
 ======
@@ -47,4 +49,6 @@ Publications
   
 Service and leadership
 ======
+{% comment %}
 * Currently signed in to 43 different slack teams
+{% endcomment %}
