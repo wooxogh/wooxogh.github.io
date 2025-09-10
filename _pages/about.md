@@ -7,9 +7,8 @@ redirect_from:
   - /about.html
 ---
 
-Hello! My name is Woo Taeho. I'm currently studying Computer Science at Yonsei University in Korea.  
-My interests include systems programming, networking, and cloud infrastructure.  
-I am passionate about learning new technologies and developing practical skills through projects and collaboration.
+안녕하세요, 연세대학교 컴퓨터과학과에 재학 중인 우태호입니다.
+저는 백엔드 개발에 깊은 관심을 가지고 있으며, 데이터베이스·API 설계·클라우드 인프라와 같은 영역을 탐구하고 있습니다. 개발을 할 때는 명확한 구조와 일관된 코드 스타일을 지향하며, 협업 시 다른 개발자가 이해하기 쉬운 코드를 작성하려 노력합니다. 또한 테스트와 문서화를 통해 유지보수가 용이한 코드를 만드는 것을 중요하게 생각합니다. 새로운 기술을 배우는 데 적극적이며, 실제 프로젝트와 협업 경험을 통해 실무적인 역량을 키워가고 있습니다.
 
 Experiences
 ------
