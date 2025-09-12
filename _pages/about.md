@@ -24,7 +24,6 @@ Experiences
 
 *2025.03 ~ Present*
 - Django/DRF 기반 백엔드 개발자로 활동하며 팀 프로젝트에 참여  
-- 실시간 코드 리뷰 및 협업 툴 아이디어 제안 등 서비스 기획에도 적극 기여  
 
 ------
 📌 SKYST Hackathon(서울대·연세대·고려대·카이스트 연합 해커톤) - Backend Developer
