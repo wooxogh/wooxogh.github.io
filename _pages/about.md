@@ -20,26 +20,45 @@ Experiences
 - 실습 중심 환경에서 팀 단위 클라우드 프로젝트 수행  
 
 ------
-📌 멋쟁이사자처럼 연세대학교 13기 — Backend Developer
+📌 2nd Yonsei GenAI Contest — *Frontend Developer*  
+*2024.8 ~ 2024.11*  
+- ‘컴은영(Computer Speaks English)’ 프로젝트: RAG 기반 육아 코칭 AI 앱 개발  
+- MBTI/MMTIC 성향 분석 + 감정 분석을 통한 맞춤형 피드백 생성 시스템 구현  
+
+------
+📌 멋쟁이사자처럼 연세대학교 13기 — *Backend Developer*
 
 *2025.03 ~ Present*
 - Django/DRF 기반 백엔드 개발자로 활동하며 팀 프로젝트에 참여
 - RESTful API 설계, 데이터베이스 모델링 및 배포 담당 
 
 ------
-📌 SKYST Hackathon(서울대·연세대·고려대·카이스트 연합 해커톤) - Backend Developer
+📌 SKYST Hackathon(서울대·연세대·고려대·카이스트 연합 해커톤) - *Backend Developer*
 
 *2024.05*
 - UniStage 공연 예약·티켓팅 서비스 백엔드 구현  
 - Docker + AWS EC2 환경에서 배포 및 DB 성능 최적화 수행
 
 ------
-📌 2025 Sinchonthon — Backend Developer 
+📌 2025 Sinchonthon — *Backend Developer*
 
 *2025.09*  
 - 실시간 텍스트 유사도 분석 및 보이스피싱·사기 탐지 웹서비스 개발  
 - Django + MySQL FULLTEXT INDEX 기반 검색 로직 및 API 서버 구현  
 - OpenAI API 기반 재랭킹 로직 개발 및 위험도 평가 시스템 설계
+
+------
+📌 3rd Yonsei GenAI Contest — *Backend Developer*
+*2025.09 ~ Present*  
+- 학술 논문 PDF를 GIF/MP4 애니메이션으로 시각화하는 생성형 AI 학습 플랫폼 개발  
+- Spring Boot + Django + Celery + Redis + MySQL 기반 멀티 서비스 구조 설계  
+- OpenAI API를 활용한 자동 애니메이션 생성 파이프라인 구축 
+
+------
+📌 2025 신촌 대학 연합 SW 창업 경진대회 — *Backend Developer*
+- 문화·사회 이슈에 대해 AI가 요약·중재하는 토론형 플랫폼 개발  
+- Spring Boot + MySQL 기반 서버 아키텍처 설계, JWT 인증 및 Redis 캐시 도입  
+- GPT 기반 대화 요약 및 질문 추천 기능을 통해 AI가 토론의 질을 향상시키는 서비스를 구현  
 
 Honors & Awards 
 ------
