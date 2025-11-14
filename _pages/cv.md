@@ -19,9 +19,6 @@ Work experience
   * Building a generative-AI platform that connects US tech stock creators and retail investors via real-time issue tracking and opinion aggregation.
   * Django REST + OpenAI GPT backend for news summarization and creator insight visualization; React dashboard for investor transparency.
 
-* **Backend Developer**, *LikeLion Yonsei 13th* — *2025 ~ Present*
-  * Team projects using Django/DRF; API design, authentication, deployment workflows.
-
 Projects & Research (Selected)
 ======
 * **2nd Yonsei GenAI Contest — “컴은영 (Computer Speaks English)”** (*Sep 2024 ~ Nov 2024*)
