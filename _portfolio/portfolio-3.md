@@ -7,10 +7,10 @@ collection: portfolio
 ### 📌 GIFPT
 *2025.08 ~ Present*
 
-💻 [Source Code](https://github.com/YonseiGenAi/GIFPT-RELEASE.git)
+💻 [Source Code](https://github.com/YonseiGenAi/GIFPT-RELEASE.git)  
 📑 [서비스 소개자료](/files/GIFPT.pdf)
 
-**Description.** 
+**Description.**  
 강의·논문 PDF를 입력하면, 내용을 자동 분석하여 GIF/MP4 형태의 시각적 애니메이션을 생성해주는 학습 플랫폼입니다.
 아키텍처는 Spring Boot(인증·파일 관리) + Django REST(AI Worker API) + Celery(비동기 작업 큐) + Redis + MySQL로 구성된 멀티 서비스 구조로 설계했습니다.
 
@@ -31,7 +31,7 @@ collection: portfolio
 - AI·LLM 호출을 위한 Python 기반 API Wrapper 템플릿 작성
 - AWS EC2 + Docker Compose 기반 베이스 인프라 구성
 
-**Tech Stack.** 
+**Tech Stack.**  
 `Spring Boot` `Django` `REST` `Celery` `Redis`
 `MySQL` `AWS` `EC2` `Docker`
 `OpenAI` `JWT`

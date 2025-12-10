@@ -31,7 +31,7 @@ Projects & Research
   * 좌석·예약 API의 동시성 처리 및 DB 쿼리 최적화  
   * Docker + EC2 배포 환경 구축  
 
-* **IDEALAB — Local Business Analytics Platform** (*Jun 2025 ~ Sep 2025*)
+* **IDEALAB — Local Business Analytics Platform** (*Jun 2025 ~ Sep 2025*)  
   * 서울 상권 데이터 기반 창업자 분석지원 플랫폼  
   * Django + MySQL 백엔드 구축 및 데이터 파이프라인 구성  
   * OpenAI GPT 기반 시장 리포트 자동 생성 모듈 개발
@@ -41,13 +41,13 @@ Projects & Research
   * Django + MySQL FULLTEXT 검색 기반 실시간 유사도 탐지  
   * 정규식 기반 위험 패턴 추출 및 재랭킹 로직 구성  
 
-* **3rd Yonsei GenAI Contest — GIFPT (Gold Prize)** (*Sep 2025 ~ Dec 2025*)
+* **3rd Yonsei GenAI Contest — GIFPT (Gold Prize)** (*Sep 2025 ~ Dec 2025*)  
   * 학술 논문 PDF를 GIF/MP4로 자동 시각화하는 생성형 AI 학습 플랫폼 개발  
   * Spring Boot(인증·파일관리) + Django/Celery(AI Worker) 멀티 서비스 아키텍처 설계  
   * Redis 기반 작업 큐·세션 관리, MySQL 기반 메타데이터 저장 구조 구현  
   * AWS EC2 + Docker Compose 기반 배포 인프라 구성  
 
-* **SAI — Structured Q&A & Debate Platform** (*Aug 2025 ~ Dec 2025*)
+* **SAI — Structured Q&A & Debate Platform** (*Aug 2025 ~ Dec 2025*)  
   * 사용자 생성 Q&A·토론방의 대화를 구조적으로 저장·조회하는 웹 플랫폼 개발  
   * Spring Boot + MySQL 기반 백엔드 아키텍처 및 도메인 모델링  
   * JWT 인증·인가, Redis 세션 캐싱, GitHub Actions 기반 CI/CD 구축  
@@ -71,16 +71,13 @@ Publications
 
 Service and leadership
 ======
-* **Vice President**, Yonsei Univ. Dept. of Computer Science Student Council (*Dec 2023 ~ Dec 2024*)
-
+* **Vice President**, Yonsei Univ. Dept. of Computer Science Student Council (*Dec 2023 ~ Dec 2024*)  
   Managed ~30 staff; planned & executed events for ~600 students; budgeting, scheduling, faculty coordination.
 
-* **Member**, Yonsei AWS Summer Camp (*Jul 2024 ~ Aug 2024*)
-
+* **Member**, Yonsei AWS Summer Camp (*Jul 2024 ~ Aug 2024*)  
   AWS EC2, RDS, S3 기반 배포 및 OAuth 로그인·CI/CD 실습  
 
-* **Backend Track**, 멋쟁이사자처럼 연세대학교 13기 (*Mar 2025 ~ Dec 2025*)
-
+* **Backend Track**, 멋쟁이사자처럼 연세대학교 13기 (*Mar 2025 ~ Dec 2025*)  
   Django 기반 팀 프로젝트 참여, REST API 설계·배포 경험  
 
 * **(Incoming)President**, 멋쟁이사자처럼 연세대학교 14기 (*Jan 2026 ~ Dec 2026*)
