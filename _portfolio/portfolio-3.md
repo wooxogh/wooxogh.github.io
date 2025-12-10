@@ -9,11 +9,18 @@ collection: portfolio
 
 💻 [Source Code](https://github.com/YonseiGenAi/GIFPT-RELEASE.git)
 📄 [API 명세서]()
-📑 [서비스 소개자료](/files/)
+📑 [서비스 소개자료](/files/GIFPT.pdf)
 
 **Description.** 
 강의·논문 PDF를 입력하면, 내용을 자동 분석하여 GIF/MP4 형태의 시각적 애니메이션을 생성해주는 학습 플랫폼입니다.
 아키텍처는 Spring Boot(인증·파일 관리) + Django REST(AI Worker API) + Celery(비동기 작업 큐) + Redis + MySQL로 구성된 멀티 서비스 구조로 설계했습니다.
+
+**My Contributions.**  
+- Spring Boot 인증/인가(JWT), 유저 세션, 파일 업로드 도메인 전체 설계
+- Celery 기반 비동기 파이프라인 설계(작업 큐 → 상태 폴링 → 결과 수집) 및 Redis 연동
+- AI Worker 서버(Django REST) 초기 구조 설계 및 LLM 호출 래퍼 템플릿 제작
+- PDF 페이지 이미지 변환(ghostscript) + 메타데이터 저장 프로세스 개발
+- AWS EC2 + Docker Compose 기반 멀티 컨테이너 배포 환경 구성
 
 **Features.**  
 - Spring Boot 기반 유저 인증(JWT)·세션·프로필 관리
