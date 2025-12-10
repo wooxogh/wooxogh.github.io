@@ -1,6 +1,6 @@
 ---
 title: "GIFPT"
-excerpt: "Generative-AI 학습 플랫폼 (진행 중)<br/><img src='/images/' style='width:60%; height:auto;'>"
+excerpt: "Generative-AI 학습 플랫폼 (진행 중)<br/><img src='/images/gifpt.png' style='width:60%; height:auto;'>"
 collection: portfolio
 ---
 
