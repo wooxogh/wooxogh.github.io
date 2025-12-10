@@ -72,13 +72,16 @@ Publications
 Service and leadership
 ======
 * **Vice President**, Yonsei Univ. Dept. of Computer Science Student Council (*Dec 2023 ~ Dec 2024*)
+
   Managed ~30 staff; planned & executed events for ~600 students; budgeting, scheduling, faculty coordination.
 
 * **Member**, Yonsei AWS Summer Camp (*Jul 2024 ~ Aug 2024*)
-- AWS EC2, RDS, S3 기반 배포 및 OAuth 로그인·CI/CD 실습  
 
-* **Backend Track**, 멋쟁이사자처럼 연세대학교 13기 (*Mar 2025 ~ Dec 2025*) 
-- Django 기반 팀 프로젝트 참여, REST API 설계·배포 경험  
+  AWS EC2, RDS, S3 기반 배포 및 OAuth 로그인·CI/CD 실습  
+
+* **Backend Track**, 멋쟁이사자처럼 연세대학교 13기 (*Mar 2025 ~ Dec 2025*)
+
+  Django 기반 팀 프로젝트 참여, REST API 설계·배포 경험  
 
 * **(Incoming)President**, 멋쟁이사자처럼 연세대학교 14기 (*Jan 2026 ~ Dec 2026*)
 
