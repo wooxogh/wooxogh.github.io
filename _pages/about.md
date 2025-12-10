@@ -45,9 +45,11 @@ Honors & Awards
 ------
 **Academic Scholarship**  
 - Yonsei University, 2nd Semester of 2023 (Feb 2024)  
+
   성적 우수 장학금 수여
 
 - 3rd Yonsei GenAI Contest, Gold Prize (Dec 2025)
+
   생성형 AI 기반 학습 플랫폼 개발 팀 프로젝트 금상 수상
 
 Extracurricular Activities
