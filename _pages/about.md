@@ -28,24 +28,27 @@ Experiences
 
 ------
 📌 3rd Yonsei GenAI Contest — *Backend Developer* (Gold Prize)
-*2025.09 ~ Present*  
+
+*2025.09 ~ 2025.12*  
 - 학술 논문 PDF를 입력하면 GIF/MP4 애니메이션으로 자동 시각화하는 생성형 AI 학습 플랫폼 개발
 - Spring Boot + Django + Celery + Redis + MySQL 기반의 멀티 서비스 백엔드 아키텍처 설계 및 구현
 - OpenAI API 기반 애니메이션 자동 생성 파이프라인 구축
 
 ------
 📌 2025 신촌 대학 연합 SW 창업 경진대회 — *Backend Developer*
-- 문화·사회 이슈에 대해 AI가 요약·중재하는 토론형 플랫폼 개발
-- Spring Boot + MySQL 기반 서버 설계, JWT 인증·Redis 캐싱 도입으로 성능·보안 강화
+
+*2025.09 ~ 2025.12*  
+- 사회·문화 이슈에 대해 사용자가 의견을 공유하고 토론할 수 있는 실시간 Q&A·토론 플랫폼 개발
+- Spring Boot + MySQL 기반 서버 아키텍처 설계, 도메인 모델링, REST API 구현
 
 Honors & Awards 
 ------
 **Academic Scholarship**  
 - Yonsei University, 2nd Semester of 2023 (Feb 2024)  
   성적 우수 장학금 수여
-**3rd Yonsei GenAI Contest (Dec 2025)**
-- Gold Prize
-  생성형 AI 학습 플랫폼 개발 팀 프로젝트 금상 수상
+
+- 3rd Yonsei GenAI Contest, Gold Prize (Dec 2025)
+  생성형 AI 기반 학습 플랫폼 개발 팀 프로젝트 금상 수상
 
 Extracurricular Activities
 ------
@@ -60,7 +63,10 @@ Extracurricular Activities
 - 실습 중심 환경에서 팀 단위 클라우드 프로젝트 수행  
 
 ### 멋쟁이사자처럼 연세대학교 13기 — 아기사자 (2025.03 ~ 2025.12)
-- Django/DRF 기반 백엔드 개발자로 활동하며 팀 프로젝트에 참여
-- RESTful API 설계, 데이터베이스 모델링 및 배포 담당 
+- Django 백엔드 개발자로 활동하며 세션/팀 프로젝트에 참여
 
-### (예정) 멋쟁이사자처럼 연세대학교 14기 - 회장 (2026.01 ~ 2026.12)
+### EdgH — 연세대학교 교내 창업팀 (2025.09 ~ Present)
+- “누구나 주체적인 주식 투자 결정을 할 수 있는 세상”을 만들겠다는 미션 아래 초기 팀으로 활동
+- 향후 백엔드 개발 및 서비스 아키텍처 구축을 위한 사전 준비 진행 중
+
+### (예정)멋쟁이사자처럼 연세대학교 14기 - 회장 (2026.01 ~ 2026.12)
