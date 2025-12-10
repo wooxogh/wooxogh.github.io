@@ -8,7 +8,6 @@ collection: portfolio
 *2025.08 ~ Present*
 
 💻 [Source Code](https://github.com/YonseiGenAi/GIFPT-RELEASE.git)
-📄 [API 명세서]()
 📑 [서비스 소개자료](/files/GIFPT.pdf)
 
 **Description.** 
@@ -21,6 +20,7 @@ collection: portfolio
 - AI Worker 서버(Django REST) 초기 구조 설계 및 LLM 호출 래퍼 템플릿 제작
 - PDF 페이지 이미지 변환(ghostscript) + 메타데이터 저장 프로세스 개발
 - AWS EC2 + Docker Compose 기반 멀티 컨테이너 배포 환경 구성
+- GitHub Actions를 이용한 CI/CD 자동화 파이프라인 구축
 
 **Features.**  
 - Spring Boot 기반 유저 인증(JWT)·세션·프로필 관리
@@ -35,3 +35,4 @@ collection: portfolio
 `Spring Boot` `Django` `REST` `Celery` `Redis`
 `MySQL` `AWS` `EC2` `Docker`
 `OpenAI` `JWT`
+`Github Actions (CI/CD)`
